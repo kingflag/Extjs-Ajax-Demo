@@ -1,0 +1,7 @@
+{
+    success: true,
+    users: [
+        { id: 1, id: 'Ed', user: 'ed@sencha.com' ,surplus: '600' ,createtime:'2017-06-29 05:50:00' },
+        { id: 2, id: 'Tommy', user: 'tommy@sencha.com' ,surplus: '600' ,createtime:'2017-06-29 05:50:00'  }
+    ]
+}
